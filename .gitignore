@@ -1,2 +1,7 @@
 ./venv/
 venv/
+# Ignore virtual environment
+.venv/
+
+# Ignore codegraph folder
+.codegraph/
